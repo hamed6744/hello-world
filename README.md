@@ -1,2 +1,6 @@
 # hello-world
 my repository
+
+
+i like python and ML ...
+i make this account to start a great way....
